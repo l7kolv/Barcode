@@ -1,0 +1,28 @@
+.qrdiv {
+    width: 500px;
+    height: 500px;
+    padding-top: 0;
+}
+
+.btn {
+    width: 375px;
+    height: 375px;
+}
+
+.icon {
+    width: 200px;
+    height: 200px;
+}
+
+.barcode_wrap{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    justify-content: center;
+    align-items: center;
+}
+@page {
+    size: A4;
+    margin: 20mm;
+
+  }
